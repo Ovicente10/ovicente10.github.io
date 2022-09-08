@@ -1,0 +1,17 @@
+header{
+    background-color: rgb(126, 129, 122);
+    } 
+    
+    body { 
+     background-color: black;
+     color: aliceblue;
+    text-align: center
+    ; font-size:large;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: unset;
+    font-weight: normal;
+    }
+    footer{
+        background-color: aliceblue;
+        color: rgb(24, 23, 23);
+    }
